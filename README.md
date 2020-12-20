@@ -13,3 +13,7 @@ This program is created as a parody to Stack Overflow anwsers, encapsulating all
 ## Why?
 
 This topic has been closed. There is not enough information.
+
+## Why can't I pass command line arguments?
+
+(+46 upvotes) Command line arguments use pointers which are BAD.
