@@ -4,7 +4,7 @@ project(soos VERSION 1.0)
 
 INCLUDE_DIRECTORIES(/usr/include/python2.7)
 
-list(APPEND srclist "main.c")
+list(APPEND srclist "main.cpp")
 
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)

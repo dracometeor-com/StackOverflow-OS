@@ -3,6 +3,7 @@ This program is created as a parody to Stack Overflow anwsers, encapsulating all
 
 # Instructions
 - apt-get install python2.7-dev
+- apt-get install libboost-all-dev
 - cmake .
 - make
 
